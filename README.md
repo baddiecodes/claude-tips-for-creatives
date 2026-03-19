@@ -2,7 +2,7 @@
 
 tips for getting the most out of Claude.ai and Cursor if you're a marketer, designer, UX/UI, or PM — not a software engineer. no terminal required.
 
-written by [mewtwo](https://x.com/withmewtwo) | founder of [junohauz](https://x.com/junohauz) — unofficial HQ for AI and Solana women
+written by [Mewtwo](https://x.com/withmewtwo) | founder of [Junohauz](https://x.com/junohauz) — unofficial HQ for AI and Solana women
 
 ---
 
@@ -71,7 +71,7 @@ without Projects: every conversation starts from zero. Claude has no idea who yo
 
 with Projects: you can upload files, set a system prompt, and have Claude carry context across all your chats inside that project. it remembers your brand, your audience, your goals.
 
-i have a project for junohauz, one for client work, one for personal writing. each one has its own system prompt and reference files. setup takes 10 minutes and saves you hours of re-explaining context.
+i have a project for Junohauz, one for client work, one for personal writing. each one has its own system prompt and reference files. setup takes 10 minutes and saves you hours of re-explaining context.
 
 create a project at [claude.ai/projects](https://claude.ai/projects). start there.
 
@@ -81,12 +81,12 @@ create a project at [claude.ai/projects](https://claude.ai/projects). start ther
 
 inside a Project, you can write a system prompt — a set of standing instructions Claude reads before every conversation in that project.
 
-mine for junohauz content looks something like this:
+mine for Junohauz content looks something like this:
 
 ```
-you are helping mewtwo, founder of junohauz, create content for X (twitter) and instagram.
+you are helping Mewtwo, founder of Junohauz, create content for X (twitter) and instagram.
 
-junohauz is a women's community at the intersection of AI and Solana.
+Junohauz is a women's community at the intersection of AI and Solana.
 tagline: "unofficial HQ for AI and Solana women."
 tone: lowercase, punchy, direct. no em dashes. no corporate language.
 audience: women in web3, AI, and tech — from builders to beginners.
@@ -463,7 +463,7 @@ workflow:
 3. open in Cursor for more precise edits and refinements
 4. ship it
 
-this stack lets non-technical people go from idea to live product without writing a single line of code from scratch. at junohauz's SheBuilds event on IWD, women shipped live products in 3 hours using JunoMoment, our vibe-coding product — this is exactly the kind of workflow they used.
+this stack lets non-technical people go from idea to live product without writing a single line of code from scratch. at Junohauz's SheBuilds event on IWD, women shipped live products in 3 hours using JunoMoment, our vibe-coding product — this is exactly the kind of workflow they used.
 
 ---
 
@@ -597,7 +597,7 @@ a solo designer can now ship a working prototype. a solo strategist can now run 
 
 this isn't about replacing teams. it's about what's now possible before you even need one.
 
-we're building junohauz on exactly this premise — and SheBuilds is where we put it into practice. non-technical women, live products, three hours. that's the world we're in now.
+we're building Junohauz on exactly this premise — and SheBuilds is where we put it into practice. non-technical women, live products, three hours. that's the world we're in now.
 
 ---
 
@@ -625,9 +625,9 @@ that's how this community gets smarter together.
 
 ## about
 
-this repo is maintained by [mewtwo](https://x.com/withmewtwo) — founder of [junohauz](https://x.com/junohauz), unofficial HQ for AI and Solana women.
+this repo is maintained by [Mewtwo](https://x.com/withmewtwo) — founder of [Junohauz](https://x.com/junohauz), unofficial HQ for AI and Solana women.
 
-junohauz runs SheBuilds events where non-technical women ship live products using AI tools. this repo is the documentation of what actually works.
+Junohauz runs SheBuilds events where non-technical women ship live products using AI tools. this repo is the documentation of what actually works.
 
 pull requests welcome. if you have a tip that belongs here, open a PR or reach out on X.
 
